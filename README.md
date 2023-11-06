@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loveyoulzx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-  I am student
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me e-mail me at 752139192@qq.com
 
 <!---
